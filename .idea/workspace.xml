@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6e21a32-949d-4197-af93-41619fceeaaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/databaseConfiguration/DatabaseConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/databaseConfiguration/DatabaseConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForAddAttendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForAddAttendance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForAddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForAddUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForChangeUserGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForDeleteUserFromGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/UserGroupDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/Days.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/UserDb.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/UserDb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/UserGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/TeacherSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/serializer/UserGetSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/serializer/UserGetSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/services/UserGroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/services/UserGroupService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/telegrambot-master" />
+  </component>
+  <component name="ProjectId" id="1b73SNu8b8OInQeBgsNHlCvYgw6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e21a32-949d-4197-af93-41619fceeaaa" name="Default Changelist" comment="" />
+      <created>1587969303902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587969303902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="705" y="276" key="#Web_Browsers" timestamp="1587969350450">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="705" y="276" key="#Web_Browsers/0.0.1804.974@0.0.1804.974" timestamp="1587969350450" />
+    <state x="625" y="288" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587969312109">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="625" y="288" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1804.974@0.0.1804.974" timestamp="1587969312109" />
+    <state x="682" y="228" key="FileChooserDialogImpl" timestamp="1587969338866">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="682" y="228" key="FileChooserDialogImpl/0.0.1804.974@0.0.1804.974" timestamp="1587969338866" />
+  </component>
+</project>
