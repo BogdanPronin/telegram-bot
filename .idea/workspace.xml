@@ -2,29 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e21a32-949d-4197-af93-41619fceeaaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/Bot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/databaseConfiguration/DatabaseConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/databaseConfiguration/DatabaseConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForAddAttendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForAddAttendance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForAddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForAddUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForChangeUserGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/DeserializerForDeleteUserFromGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/deserializer/UserGroupDeserializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/Days.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/UserDb.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/UserDb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/UserGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/models/TeacherSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/serializer/UserGetSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/serializer/UserGetSerializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/services/UserGroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master/src/main/java/com/github/bagasala/ormlite/services/UserGroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegrambot-master" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/telegrambot-master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b73SNu8b8OInQeBgsNHlCvYgw6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,9 +30,46 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.Bot">
+    <configuration name="Bot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.bagasala.Bot" />
+      <module name="Bot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.bagasala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.bagasala.ormlite.Test" />
+      <module name="Bot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.bagasala.ormlite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bot" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,18 +84,71 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/telegrambot-master" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="705" y="276" key="#Web_Browsers" timestamp="1587969350450">
+    <state x="787" y="349" key="#Notifications" timestamp="1587969655136">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state x="705" y="276" key="#Web_Browsers/0.0.1804.974@0.0.1804.974" timestamp="1587969350450" />
+    <state x="787" y="349" key="#Notifications/0.0.1804.974@0.0.1804.974" timestamp="1587969655136" />
+    <state x="705" y="276" key="#Web_Browsers" timestamp="1588056554402">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="705" y="276" key="#Web_Browsers/0.0.1804.974@0.0.1804.974" timestamp="1588056554402" />
     <state x="625" y="288" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587969312109">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
     <state x="625" y="288" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1804.974@0.0.1804.974" timestamp="1587969312109" />
+    <state x="707" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1588065941364">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="707" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1804.974@0.0.1804.974" timestamp="1588065941364" />
     <state x="682" y="228" key="FileChooserDialogImpl" timestamp="1587969338866">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
     <state x="682" y="228" key="FileChooserDialogImpl/0.0.1804.974@0.0.1804.974" timestamp="1587969338866" />
+    <state x="780" y="384" width="243" height="277" key="Github.ShareDialog" timestamp="1588056545323">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="780" y="384" width="243" height="277" key="Github.ShareDialog/0.0.1804.974@0.0.1804.974" timestamp="1588056545323" />
+    <state x="560" y="183" key="Github.UntrackedFilesDialog" timestamp="1587969497954">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="560" y="183" key="Github.UntrackedFilesDialog/0.0.1804.974@0.0.1804.974" timestamp="1587969497954" />
+    <state width="1761" height="249" key="GridCell.Tab.0.bottom" timestamp="1588066133662">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state width="1761" height="249" key="GridCell.Tab.0.bottom/0.0.1804.974@0.0.1804.974" timestamp="1588066133662" />
+    <state width="1761" height="249" key="GridCell.Tab.0.center" timestamp="1588066133662">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state width="1761" height="249" key="GridCell.Tab.0.center/0.0.1804.974@0.0.1804.974" timestamp="1588066133662" />
+    <state width="1761" height="249" key="GridCell.Tab.0.left" timestamp="1588066133662">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state width="1761" height="249" key="GridCell.Tab.0.left/0.0.1804.974@0.0.1804.974" timestamp="1588066133662" />
+    <state width="1761" height="249" key="GridCell.Tab.0.right" timestamp="1588066133662">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state width="1761" height="249" key="GridCell.Tab.0.right/0.0.1804.974@0.0.1804.974" timestamp="1588066133662" />
+    <state x="432" y="141" key="Maven.ArtifactSearchDialog" timestamp="1587971032012">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="432" y="141" key="Maven.ArtifactSearchDialog/0.0.1804.974@0.0.1804.974" timestamp="1587971032012" />
+    <state x="403" y="131" key="SettingsEditor" timestamp="1588069171592">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="403" y="131" key="SettingsEditor/0.0.1804.974@0.0.1804.974" timestamp="1588069171592" />
+    <state x="494" y="219" key="Vcs.Push.Dialog.v2" timestamp="1588068936693">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="494" y="219" key="Vcs.Push.Dialog.v2/0.0.1804.974@0.0.1804.974" timestamp="1588068936693" />
+    <state x="565" y="208" width="672" height="678" key="search.everywhere.popup" timestamp="1588064841407">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="565" y="208" width="672" height="678" key="search.everywhere.popup/0.0.1804.974@0.0.1804.974" timestamp="1588064841407" />
   </component>
 </project>
