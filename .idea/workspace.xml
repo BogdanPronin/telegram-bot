@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e21a32-949d-4197-af93-41619fceeaaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/telegrambot-master" beforeDir="false" afterPath="$PROJECT_DIR$/telegrambot-master" afterDir="false" />
     </list>
@@ -34,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/telegrambot_school-master" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Application.Bot">
@@ -82,18 +79,28 @@
       <option name="presentableId" value="Default" />
       <updated>1587969303902</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1588069342994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588069342994</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/telegrambot-master" />
     </ignored-roots>
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="787" y="349" key="#Notifications" timestamp="1587969655136">
+    <state x="787" y="349" key="#Notifications" timestamp="1588069985138">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state x="787" y="349" key="#Notifications/0.0.1804.974@0.0.1804.974" timestamp="1587969655136" />
+    <state x="787" y="349" key="#Notifications/0.0.1804.974@0.0.1804.974" timestamp="1588069985138" />
     <state x="705" y="276" key="#Web_Browsers" timestamp="1588056554402">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
@@ -102,14 +109,18 @@
       <screen x="0" y="0" width="1804" height="974" />
     </state>
     <state x="625" y="288" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1804.974@0.0.1804.974" timestamp="1587969312109" />
-    <state x="707" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1588065941364">
+    <state x="707" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1588234301455">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state x="707" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1804.974@0.0.1804.974" timestamp="1588065941364" />
-    <state x="682" y="228" key="FileChooserDialogImpl" timestamp="1587969338866">
+    <state x="707" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1804.974@0.0.1804.974" timestamp="1588234301454" />
+    <state x="451" y="46" key="CommitChangelistDialog2" timestamp="1588069341604">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state x="682" y="228" key="FileChooserDialogImpl/0.0.1804.974@0.0.1804.974" timestamp="1587969338866" />
+    <state x="451" y="46" key="CommitChangelistDialog2/0.0.1804.974@0.0.1804.974" timestamp="1588069341604" />
+    <state x="682" y="228" key="FileChooserDialogImpl" timestamp="1588082905221">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="682" y="228" key="FileChooserDialogImpl/0.0.1804.974@0.0.1804.974" timestamp="1588082905221" />
     <state x="780" y="384" width="243" height="277" key="Github.ShareDialog" timestamp="1588056545323">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
@@ -118,34 +129,62 @@
       <screen x="0" y="0" width="1804" height="974" />
     </state>
     <state x="560" y="183" key="Github.UntrackedFilesDialog/0.0.1804.974@0.0.1804.974" timestamp="1587969497954" />
-    <state width="1761" height="249" key="GridCell.Tab.0.bottom" timestamp="1588066133662">
+    <state width="1744" height="178" key="GridCell.Tab.0.bottom" timestamp="1588237332629">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state width="1761" height="249" key="GridCell.Tab.0.bottom/0.0.1804.974@0.0.1804.974" timestamp="1588066133662" />
-    <state width="1761" height="249" key="GridCell.Tab.0.center" timestamp="1588066133662">
+    <state width="1744" height="178" key="GridCell.Tab.0.bottom/0.0.1804.974@0.0.1804.974" timestamp="1588237332629" />
+    <state width="1744" height="178" key="GridCell.Tab.0.center" timestamp="1588237332629">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state width="1761" height="249" key="GridCell.Tab.0.center/0.0.1804.974@0.0.1804.974" timestamp="1588066133662" />
-    <state width="1761" height="249" key="GridCell.Tab.0.left" timestamp="1588066133662">
+    <state width="1744" height="178" key="GridCell.Tab.0.center/0.0.1804.974@0.0.1804.974" timestamp="1588237332629" />
+    <state width="1744" height="178" key="GridCell.Tab.0.left" timestamp="1588237332629">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state width="1761" height="249" key="GridCell.Tab.0.left/0.0.1804.974@0.0.1804.974" timestamp="1588066133662" />
-    <state width="1761" height="249" key="GridCell.Tab.0.right" timestamp="1588066133662">
+    <state width="1744" height="178" key="GridCell.Tab.0.left/0.0.1804.974@0.0.1804.974" timestamp="1588237332629" />
+    <state width="1744" height="178" key="GridCell.Tab.0.right" timestamp="1588237332629">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state width="1761" height="249" key="GridCell.Tab.0.right/0.0.1804.974@0.0.1804.974" timestamp="1588066133662" />
+    <state width="1744" height="178" key="GridCell.Tab.0.right/0.0.1804.974@0.0.1804.974" timestamp="1588237332629" />
+    <state width="1761" height="321" key="GridCell.Tab.1.bottom" timestamp="1588170160206">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state width="1761" height="321" key="GridCell.Tab.1.bottom/0.0.1804.974@0.0.1804.974" timestamp="1588170160206" />
+    <state width="1761" height="321" key="GridCell.Tab.1.center" timestamp="1588170160206">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state width="1761" height="321" key="GridCell.Tab.1.center/0.0.1804.974@0.0.1804.974" timestamp="1588170160206" />
+    <state width="1761" height="321" key="GridCell.Tab.1.left" timestamp="1588170160206">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state width="1761" height="321" key="GridCell.Tab.1.left/0.0.1804.974@0.0.1804.974" timestamp="1588170160206" />
+    <state width="1761" height="321" key="GridCell.Tab.1.right" timestamp="1588170160206">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state width="1761" height="321" key="GridCell.Tab.1.right/0.0.1804.974@0.0.1804.974" timestamp="1588170160206" />
     <state x="432" y="141" key="Maven.ArtifactSearchDialog" timestamp="1587971032012">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
     <state x="432" y="141" key="Maven.ArtifactSearchDialog/0.0.1804.974@0.0.1804.974" timestamp="1587971032012" />
-    <state x="403" y="131" key="SettingsEditor" timestamp="1588069171592">
+    <state x="564" y="207" key="RollbackChangesDialog" timestamp="1588234632601">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state x="403" y="131" key="SettingsEditor/0.0.1804.974@0.0.1804.974" timestamp="1588069171592" />
-    <state x="494" y="219" key="Vcs.Push.Dialog.v2" timestamp="1588068936693">
+    <state x="564" y="207" key="RollbackChangesDialog/0.0.1804.974@0.0.1804.974" timestamp="1588234632601" />
+    <state x="403" y="131" key="SettingsEditor" timestamp="1588069835956">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
-    <state x="494" y="219" key="Vcs.Push.Dialog.v2/0.0.1804.974@0.0.1804.974" timestamp="1588068936693" />
+    <state x="403" y="131" key="SettingsEditor/0.0.1804.974@0.0.1804.974" timestamp="1588069835956" />
+    <state x="494" y="219" key="Vcs.Push.Dialog.v2" timestamp="1588069972867">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="494" y="219" key="Vcs.Push.Dialog.v2/0.0.1804.974@0.0.1804.974" timestamp="1588069972867" />
+    <state x="702" y="388" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1588069715363">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="702" y="388" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1804.974@0.0.1804.974" timestamp="1588069715363" />
+    <state x="745" y="244" key="refactoring.ChangeSignatureDialog" timestamp="1588164605628">
+      <screen x="0" y="0" width="1804" height="974" />
+    </state>
+    <state x="745" y="244" key="refactoring.ChangeSignatureDialog/0.0.1804.974@0.0.1804.974" timestamp="1588164605628" />
     <state x="565" y="208" width="672" height="678" key="search.everywhere.popup" timestamp="1588064841407">
       <screen x="0" y="0" width="1804" height="974" />
     </state>
